@@ -457,3 +457,5 @@ Now we know roughly how to navigate around a Git repo, create, add and commit fi
 
 One commit will contain the necessary `.h` and `.c` files for a static library that we will build called `espl_lib`. Another commit will contain a `.patch` for your CMake script to link the library. Checkout the commits, find the files, verify their contents and then use cherry pick to merge them to your merging branch. The instructions (in a separate `.md` file) to continue can also be found in a seperate commit.
 
+
+ ESPL library
