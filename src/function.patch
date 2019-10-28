@@ -1,0 +1,13 @@
+diff --git a/src/function.c b/src/function.c
+index e7122e6..c365d9b 100644
+--- a/src/function.c
++++ b/src/function.c
+@@ -3,7 +3,7 @@
+ int main() {
+ 
+ 	printf("Hello ESPL!");
+-
++	printf("this is a new line");
+ 
+ 
+ } 
